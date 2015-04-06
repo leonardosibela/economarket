@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="br.com.projects.sibela.listasmercados.ListaProdutosActivity">
+
+    <item android:id="@+id/acbSalvar"
+        android:title="@string/acbSalvar"
+        android:orderInCategory="1"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_assignment_turned_in_white_18dp"/>
+</menu>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuBaixar"
+        android:title="@string/baixar"
+        android:icon="@drawable/ic_system_update_tv_black_18dp"/>
+
+    <item
+        android:id="@+id/menuImprimir"
+        android:title="@string/imprimir"
+        android:icon="@drawable/ic_print_black_18dp"/>
+
+    <item
+        android:id="@+id/menuRemover"
+        android:title="@string/remover"
+        android:icon="@drawable/ic_delete_black_18dp"/>
+
+</menu>

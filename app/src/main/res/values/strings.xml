@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EconoMarket</string>
+    <string name="acbNovaLista">Nova Lista</string>
+    <string name="title_activity_lista_produtos">Lista de Produtos</string>
+    <string name="acbSalvar">Salvar</string>
+    <string name="acbEditar">Editar</string>
+    <string name="acbRemover">Remover</string>
+    <string name="remover">Remover</string>
+    <string name="editar">Editar</string>
+    <string name="baixar">Baixar</string>
+    <string name="imprimir">imprimir</string>
+</resources>
